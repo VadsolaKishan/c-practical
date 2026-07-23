@@ -41,5 +41,5 @@ int main()
 int num;
    display();
    num = student();
-   grade(num);                                                                          
+   grade(num);      
 }
