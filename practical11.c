@@ -26,7 +26,6 @@ if(m==1)
 {
 printf("\nYou Loss The Game.");
 break;
-    
 }
 }
 
